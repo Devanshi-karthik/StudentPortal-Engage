@@ -8,9 +8,12 @@ const app = express();
 loaders(app);
 
 const { port, nodeEnv } = require("./config/config");
+const hostname = "0.0.0.0";
 const server = app.listen(
   port,
-  console.log(`Server started on port ${port} in ${nodeEnv} mode.`)
+  hostname,
+  // console.log(`Server started on port ${hostname} ${port} in ${nodeEnv} mode.`)
+  console.log(`Server running at http://${hostname}:${port}/`)
 );
 
 // Handle promise rejections
