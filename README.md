@@ -1,6 +1,6 @@
 # StudentPortal-Engage
 
-## This is a webapp built wiht MERN stack as part of the Microsoft Engage Mentorship program 2021
+## This is a webapp built with MERN stack as part of the Microsoft Engage Mentorship program 2021
 
 
 ## To run this app on local system
@@ -18,7 +18,7 @@
 - For example, different notes for the same subject are given to students in different classes
 - In order to help students find the best resource and clarify doubts , this webapp was created
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Future Prospects
 - Create a point based system where users who answer doubts and bodt good resources get points based on the upvotes they get 
@@ -26,9 +26,7 @@
 - Allow nested replies to commments on various doubts and resources
 - Add filter based search to segregate subjects based on department and year
 
-
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
 	Made with :heart: by Devanshi Karthik </a>
